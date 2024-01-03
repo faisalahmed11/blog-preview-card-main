@@ -24,7 +24,7 @@ main {
   margin-inline: 10px;
   gap: clamp(18px, 4vmin, 23px);
   border: 1px solid black;
-  max-width: 330px;
+  max-width: 360px;
   padding: 22px;
   border-radius: 16px;
   background-color: #fff;
@@ -47,7 +47,7 @@ main {
   margin-top: -5px;
 }
 .card-heading {
-  font-size: clamp(19px, 3vmin, 23px);
+  font-size: clamp(20px, 3vmin, 26px);
 }
 
 .card-text {
