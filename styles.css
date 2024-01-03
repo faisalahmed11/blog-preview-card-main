@@ -47,7 +47,7 @@ main {
   margin-top: -5px;
 }
 .card-heading {
-  font-size: clamp(20px, 3vmin, 33px);
+  font-size: clamp(20px, 3vmin, 24px);
 }
 
 .card-text {
